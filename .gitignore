@@ -1,5 +1,5 @@
 out/
-.idea/
-db/
-out/
-.gitignore/
+.idea
+db
+out
+.gitignore
