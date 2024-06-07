@@ -1,5 +1,1 @@
-out/
-.idea
-db
-out
-.gitignore
+/.idea/
